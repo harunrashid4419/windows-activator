@@ -1,2 +1,2 @@
 ### Steeps:
--- Create a txt file on your desktop.
+- Create a txt file on your desktop.

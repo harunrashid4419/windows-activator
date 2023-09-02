@@ -1,4 +1,4 @@
-# How to activate windows.
+# How to activate Windows.
 ### --Steeps:
 - Create a text document file on your desktop.
 - Paste the code on this file.

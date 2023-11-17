@@ -8,7 +8,7 @@
 
 # Or
 ### --Steeps:
-- Click start option and search command Prompt and click right button and click run ad administer.
+- Click start option and search command Prompt and click right button and click run as administer.
 - Paste the code.
 - slmgr /skms kms8.msguides.com
 - slmgr /ato
